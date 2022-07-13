@@ -9,21 +9,21 @@
 
     <title>Boolpress | @yield('title')</title>
 
-    <!-- Scripts -->
-    <script src="{{ asset('js/app.js') }}" defer></script>
-
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+    <!-- Script -->
+    <script src="{{asset('js/app.js')}}"></script>
 
     <!-- JQuery -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <!-- Js -->
-    <script src="{{ asset('js/app.js') }}"></script>
+    <script src="{{asset('js/admin.js')}}"></script>
 
     <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/admin/style.css') }}" rel="stylesheet">
 </head>
 <body>
     <div id="app">

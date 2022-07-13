@@ -49320,10 +49320,10 @@ module.exports = function(module) {
 
 /***/ }),
 
-/***/ "./resources/js/app.js":
-/*!*****************************!*\
-  !*** ./resources/js/app.js ***!
-  \*****************************/
+/***/ "./resources/js/admin.js":
+/*!*******************************!*\
+  !*** ./resources/js/admin.js ***!
+  \*******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -49542,13 +49542,13 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 0:
-/*!*******************************************************************************************************!*\
-  !*** multi ./resources/js/app.js ./resources/sass/front/style.scss ./resources/sass/admin/style.scss ***!
-  \*******************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** multi ./resources/js/admin.js ./resources/sass/front/style.scss ./resources/sass/admin/style.scss ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/stefanocravotta/LARAVEL/laravel-api/resources/js/app.js */"./resources/js/app.js");
+__webpack_require__(/*! /Users/stefanocravotta/LARAVEL/laravel-api/resources/js/admin.js */"./resources/js/admin.js");
 __webpack_require__(/*! /Users/stefanocravotta/LARAVEL/laravel-api/resources/sass/front/style.scss */"./resources/sass/front/style.scss");
 module.exports = __webpack_require__(/*! /Users/stefanocravotta/LARAVEL/laravel-api/resources/sass/admin/style.scss */"./resources/sass/admin/style.scss");
 
